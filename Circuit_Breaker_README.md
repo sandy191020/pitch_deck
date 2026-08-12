@@ -1,4 +1,4 @@
-# 🛡️ Circuit Breaker
+# Circuit Breaker
 ## Deterministic Enforcement + Adversarial Fraud Intelligence for Agentic Finance
 
 > **Track:** Agentic Finance / FinTech  
